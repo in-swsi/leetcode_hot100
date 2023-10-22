@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/program/cpp/leetcode_hot100/code001.h">
+			<Option target="leetcode_hot100"/>
+		</Unit>
 		<Unit filename="E:/program/cpp/leetcode_hot100/main.cpp">
 			<Option target="leetcode_hot100"/>
 		</Unit>
