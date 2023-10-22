@@ -1,0 +1,3 @@
+"D:\insProm\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\leetcode_hot100.dir/objects.a
+E:\program\mingw64\bin\ar.exe qc CMakeFiles\leetcode_hot100.dir/objects.a @CMakeFiles\leetcode_hot100.dir\objects1.rsp
+E:\program\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\leetcode_hot100.dir/objects.a -Wl,--no-whole-archive -o leetcode_hot100.exe -Wl,--out-implib,libleetcode_hot100.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\leetcode_hot100.dir\linkLibs.rsp
